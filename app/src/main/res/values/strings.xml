@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FFmpegTest</string>
+
+    <string name="main_activity_report">Report : %1$s</string>
+    <string name="main_activity_successful_result">successful result</string>
+    <string name="main_activity_processing">processing ...</string>
+</resources>
